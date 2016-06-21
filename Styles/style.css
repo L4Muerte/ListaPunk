@@ -1,0 +1,76 @@
+
+  /*comentarios*/
+
+body {
+    background-color: yellow;
+  }
+
+
+  h1 {
+ color:black;
+ font-family:Times;
+ font-size:700%;
+ background-color:yellow;
+ text-align: center;
+}
+
+ h2 {
+   color:black;
+   font-family:Arial;
+   font-size:300%;
+   background-color:yellow;
+   text-align: center;
+
+}
+
+ h3 {
+   font-family:Times;
+   font-size:300%;
+   background-color:yellow;
+   text-align: center;
+
+ }
+
+ h4 {
+   font-family:monospace;
+   font-size:100%;
+   text-align: center;
+
+ }
+
+img {
+  text-align: center;
+
+
+}
+.emi {
+  background-image: url(../img/never.jpg);
+  font-family:Times;
+  font-size:300%;
+  background-color:yellow;
+  text-align: center;
+
+}
+.leyenda {
+  font-size: 15px;
+}
+
+
+#fotopunketos{
+  width: 100%;
+}
+
+#sx {
+width: 100%;
+
+}
+#nv {
+width: 100%;
+
+}
+
+li {
+  list-style: inherit;
+  line-height: 200px;
+
+}
